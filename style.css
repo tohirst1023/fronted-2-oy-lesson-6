@@ -1,0 +1,56 @@
+.box{
+    width: 150px;
+    height: 150px;
+}
+
+.row{
+    display: flex;
+    gap: 70px;
+    margin: 70px 0;
+}
+
+.rows{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.box-1{
+    box-shadow: 0px 10px 20px forestgreen;
+}
+
+.box-2{
+    box-shadow: 0px 0px 20px rgb(185, 187, 185);
+}
+
+.box-3{
+    box-shadow: 3px 3px 5px rgb(185, 187, 185);
+}
+
+.box-4{
+    box-shadow: 5px 5px 10px rgb(92, 91, 91) ;
+}
+
+.box-5{
+    box-shadow: 0px 2px 5px rgb(185, 187, 185);
+}
+
+.box-6{
+    box-shadow: 0px 2px 5px  #FF0000;
+}
+
+.box-7{
+    box-shadow: 5px 2px 20px  #007FFD;
+}
+
+.box-8{
+    box-shadow: 0px 2px 54px  #64646F;
+}
+
+.box-9{
+    box-shadow: 1px 0px 10px  #7e7e83;
+}
+       
+.Box {
+    border-radius: 5px;
+ }
